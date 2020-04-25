@@ -1,7 +1,7 @@
 // Documentation for API https://docs.corona.lmao-xd.wtf/
 export default class CarAPI {
   getGlobalTotals = () => {
-    return fetch("https://corona.lmao.ninja/all")
+    return fetch('https://corona.lmao.ninja/v2/all')
       .then(response => {
         return response.json();
       })
@@ -10,7 +10,7 @@ export default class CarAPI {
       });
   };
   getCountries = () => {
-    return fetch("https://corona.lmao.ninja/countries")
+    return fetch('https://corona.lmao.ninja/v2/countries')
       .then(response => {
         return response.json();
       })
@@ -19,7 +19,7 @@ export default class CarAPI {
       });
   };
   getStates = () => {
-    return fetch("https://corona.lmao.ninja/states")
+    return fetch('https://corona.lmao.ninja/v2/states')
       .then(response => {
         return response.json();
       })
