@@ -1,4 +1,4 @@
-// Documentation for API https://docs.corona.lmao-xd.wtf/
+// Documentation for API https://corona.lmao.ninja/docs/
 export default class CarAPI {
   getGlobalTotals = () => {
     return fetch('https://corona.lmao.ninja/v2/all')
