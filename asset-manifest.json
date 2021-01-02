@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/covid19-app/static/css/main.648de6fb.chunk.css",
-    "main.js": "/covid19-app/static/js/main.a210a3d7.chunk.js",
-    "main.js.map": "/covid19-app/static/js/main.a210a3d7.chunk.js.map",
-    "runtime-main.js": "/covid19-app/static/js/runtime-main.235d0bb4.js",
-    "runtime-main.js.map": "/covid19-app/static/js/runtime-main.235d0bb4.js.map",
+    "main.css": "/covid19-app/static/css/main.628ae07c.chunk.css",
+    "main.js": "/covid19-app/static/js/main.069ef13a.chunk.js",
+    "main.js.map": "/covid19-app/static/js/main.069ef13a.chunk.js.map",
+    "runtime-main.js": "/covid19-app/static/js/runtime-main.41508488.js",
+    "runtime-main.js.map": "/covid19-app/static/js/runtime-main.41508488.js.map",
     "static/css/2.de424728.chunk.css": "/covid19-app/static/css/2.de424728.chunk.css",
-    "static/js/2.079300f7.chunk.js": "/covid19-app/static/js/2.079300f7.chunk.js",
-    "static/js/2.079300f7.chunk.js.map": "/covid19-app/static/js/2.079300f7.chunk.js.map",
+    "static/js/2.c9e878ab.chunk.js": "/covid19-app/static/js/2.c9e878ab.chunk.js",
+    "static/js/2.c9e878ab.chunk.js.map": "/covid19-app/static/js/2.c9e878ab.chunk.js.map",
     "index.html": "/covid19-app/index.html",
-    "precache-manifest.12ef73e84124423cb46430e3d4f6c887.js": "/covid19-app/precache-manifest.12ef73e84124423cb46430e3d4f6c887.js",
+    "precache-manifest.13e8c76339a75e5c2f4ca625519abecd.js": "/covid19-app/precache-manifest.13e8c76339a75e5c2f4ca625519abecd.js",
     "service-worker.js": "/covid19-app/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/covid19-app/static/css/2.de424728.chunk.css.map",
-    "static/css/main.648de6fb.chunk.css.map": "/covid19-app/static/css/main.648de6fb.chunk.css.map",
-    "static/js/2.079300f7.chunk.js.LICENSE.txt": "/covid19-app/static/js/2.079300f7.chunk.js.LICENSE.txt",
+    "static/css/main.628ae07c.chunk.css.map": "/covid19-app/static/css/main.628ae07c.chunk.css.map",
+    "static/js/2.c9e878ab.chunk.js.LICENSE.txt": "/covid19-app/static/js/2.c9e878ab.chunk.js.LICENSE.txt",
     "static/media/App.css": "/covid19-app/static/media/bg-image.31430f64.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.235d0bb4.js",
+    "static/js/runtime-main.41508488.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.079300f7.chunk.js",
-    "static/css/main.648de6fb.chunk.css",
-    "static/js/main.a210a3d7.chunk.js"
+    "static/js/2.c9e878ab.chunk.js",
+    "static/css/main.628ae07c.chunk.css",
+    "static/js/main.069ef13a.chunk.js"
   ]
 }
