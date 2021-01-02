@@ -19,11 +19,11 @@ h6 {
 }
 
 .h1 {
-  font-size: 72px;
+  font-size: 4rem;
 }
 
 .global-cases-total {
-  font-size: 72px;
+  font-size: 4rem;
 }
 
 .bgimg {
@@ -62,13 +62,13 @@ h6 {
 
 /* Position text in the middle */
 .middle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   text-align: center;
   width: 100%;
   padding: 0 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
   box-sizing: border-box;
 }
 
